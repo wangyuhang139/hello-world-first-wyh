@@ -1,2 +1,3 @@
 # hello-world-first-wyh
-my try
+my first try in github
+HELLO WORLD!
